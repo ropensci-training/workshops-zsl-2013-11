@@ -1,5 +1,6 @@
-# rOpenSci workshop at the Zoological Society of London  
-**October 22nd, 2 - 3 pm **
+# rOpenSci workshop at the Zoological Society of London    
+
+**October 22nd, 2 - 3 pm**
 
 <introduction>
 
