@@ -2,7 +2,7 @@
 
 **October 22nd, 2 - 3 pm**
 
-![](http://ropensci.org/assets/img/ropensci_main.pnga)
+![](http://ropensci.org/assets/img/ropensci_main.png)
 
 
 
