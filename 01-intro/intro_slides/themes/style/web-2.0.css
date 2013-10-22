@@ -125,11 +125,11 @@
 }
 .deck-container .slide pre {
   border-color: #dbe5ee;
-  font: normal 15px/20px Menlo, consolas, mono;
+  font: normal 15px/20px  "Anonymous Pro",Menlo, consolas, mono;
   background: #fefefe;
   line-height: 1.5em;
   position: relative;
-  font-size: 102%;
+  font-size: 135%;
   z-index: auto;
   /* http://nicolasgallagher.com/css-drop-shadows-without-images/ */
 }

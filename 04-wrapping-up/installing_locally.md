@@ -21,6 +21,7 @@ library(devtools)
 Next install:
 
 ```coffee  
+# From CRAN  
 install.packages("ggplot2", dependencies = TRUE)  
 install.packages("dismo")  
 install.packages("maptools")  
@@ -29,12 +30,15 @@ install.packages("rgbif")
 install.packages("rplos")  
 install.packages("rfisheries")  
 install.packages("rfigshare")  
+install.packages("taxize")  
 
 # from GitHub
 install_github("taxize_",  "ropensci")  
 install_github("rWBclimate",  "ropensci")  
 install_github("reml",  "ropensci", ref = "xxxxx")  
 ```
+
+
 
 *Note: REML currently has dependencies that are not on CRAN. See [this page]() for instructions on how to install them from source. Once a stable version is ready, all dependencies will also be available and setup will be a lot simpler.*
 
