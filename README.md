@@ -2,7 +2,7 @@
 
 **October 22nd, 2 - 3 pm**
 
-![](http://ropensci.org/assets/images/ropensci_main.png)
+![](http://ropensci.org/assets/img/ropensci_main.png)
 
 **Schedule**
 
@@ -10,7 +10,7 @@
 | Topic  | Time |
 | ------ | ---- |
 | Introduction to the rOpenSci project [[slides](http://ropensci.github.io/workshops-zsl-2013-11/01-intro/intro_slides/index.html)]  | 2 - 2:20 |
-| Resolving taxonomic names, retrieving species distribution records  | 2:20 - 2:40 |
+| Resolving taxonomic names, retrieving species distribution records u | 2:20 - 2:40 |
 | Documenting datasets with Ecological Metadata language (EML) [[Rmd file](https://github.com/ropensci/workshops-zsl-2013-11/blob/master/03-reproducible-research/reml.Rmd)], [[md file](https://github.com/ropensci/workshops-zsl-2013-11/blob/master/03-reproducible-research/reml.md)], [[slides](http://ropensci.github.io/workshops-zsl-2013-11/03-reproducible-research/slides/index.html)] | 2:40 - 3|
 
 
